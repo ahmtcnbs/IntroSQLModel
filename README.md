@@ -25,3 +25,12 @@ and it contains sample data as below.
 | 1  | Deadpond | 24 | Male |
 | 2  | Spider-Boy | 36 | Male |
 | 3  | Rusty-Man | 27 | Male |
+
+Using a form written in HTML, we write the data we receive from the user to the database with a very short code. The data entered in the form will be written to our database via FastAPI.
+
+To access the codes of the html form: <a href="https://github.com/ahmtcnbs/IntroSQLModel/blob/master/index.html">Click Here</a>
+
+For database write operation and api: <a href="https://github.com/ahmtcnbs/IntroSQLModel/blob/master/main.py">Click Here</a>
+
+For an introduction to databases, SQL, and everything else, see the <a href="https://sqlmodel.tiangolo.com" target="_blank">SQLModel documentation</a>.
+
