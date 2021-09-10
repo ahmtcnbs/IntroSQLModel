@@ -28,6 +28,8 @@ and it contains sample data as below.
 
 Using a form written in HTML, we write the data we receive from the user to the database with a very short code. The data entered in the form will be written to our database via FastAPI.
 
+![Ekran Resmi 2021-09-10 19 53 50](https://user-images.githubusercontent.com/36485110/132891479-1a40777d-8eef-45b4-a96e-c52713810fda.png)
+
 To access the codes of the html form: <a href="https://github.com/ahmtcnbs/IntroSQLModel/blob/master/index.html">Click Here</a>
 
 For database write operation and api: <a href="https://github.com/ahmtcnbs/IntroSQLModel/blob/master/main.py">Click Here</a>
